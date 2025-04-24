@@ -130,8 +130,8 @@ const About = () => {
           
           <div className="grid gap-8 grid-cols-1 sm:grid-cols-2 lg:grid-cols-4">
             {[
-              { name: "Vaibhav", avatar: "VA" },
-              { name: "Pushpa",  avatar: "PU" },
+              { name: "Vaibhav", avatar: "V" },
+              { name: "Pushpa",  avatar: "P" },
               
             ].map((member) => (
               <div key={member.name} className="flex flex-col items-center text-center">

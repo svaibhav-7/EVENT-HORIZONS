@@ -243,7 +243,7 @@ export default function Login() {
                   </span>
                 ) : (
                   <span className="flex items-center gap-2">
-                    <LogIn className="h-4 w-4" /> Sign In with Email
+                    <LogIn className="h-4 w-4" /> Login In with Email
                   </span>
                 )}
               </Button>
